@@ -7,4 +7,6 @@ Software development and machine learning Projects
 
 3: Created a treasure land game using if-else statements 
 
-4:
+4: Created a Rock Paper Scissors Game
+
+5.
