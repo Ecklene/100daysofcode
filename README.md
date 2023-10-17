@@ -9,4 +9,6 @@ Software development and machine learning Projects
 
 4: Created a Rock Paper Scissors Game
 
-5.
+5. Created a Password Generator
+
+6. Created a guessing game
